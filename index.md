@@ -10,7 +10,7 @@ At UMass Lowell, I was active in my school's community by being a Peer Academic 
 
 ## Resume
 
-For more information about me and my experience, please view my resume [here](James_P._Walsh_resume.pdf).
+For more information about me and my experience, please view my resume [here](documents/James_P._Walsh_resume.pdf).
 
 ### Header 3
 
