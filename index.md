@@ -18,4 +18,4 @@ This section highlights some of my academic and personal projects.
 
 ### Computing IV Portfolio
 
-[Click here](documents/Walsh_James_Comp4Spring2023) to access my Computing IV final portfolio, showcasing each of my two-week projects completed throughout the semester. Each project was programmed in C++ using Visual Studio Code's Windows Subsystem for Linux. In the portfolio, you can find a table of contents, followed by each project in chronological order. Each project has a Discussion and Code section.
+[Click here](documents/Walsh_James_Comp4Spring2023.pdf) to access my Computing IV final portfolio, showcasing each of my two-week projects completed throughout the semester. Each project was programmed in C++ using Visual Studio Code's Windows Subsystem for Linux. In the portfolio, you can find a table of contents, followed by each project in chronological order. Each project has a Discussion and Code section.
