@@ -16,6 +16,10 @@ For more information about me and my experience, please view my resume [here](do
 
 This section highlights some of my academic and personal projects.
 
+### Educational Video Game: Fall 2024
+
+[Click here](https://github.com/andrade01986219/FlashCars.git) to view the repository for an educational video game, made in a Software Engineering course. The project was completed in a group of 4. The repository contains a description of the project, multiple versions of the code for the game, multiple versions of a software requirements specification document, software diagrams, a presentation slide show, and a demo video showing how the game works.
+
 ### Computing IV Portfolio: Spring 2023
 
 [Click here](documents/Walsh_James_Comp4Spring2023.pdf) to access my Computing IV final portfolio, showcasing each of my two-week projects completed throughout the semester. Each project was programmed in C++ using Visual Studio Code's Windows Subsystem for Linux. In the portfolio, you can find a table of contents, followed by each project in chronological order. Each project has a Discussion and Code section.
