@@ -18,7 +18,7 @@ This section highlights some of my academic and personal projects.
 
 ## Self-Driving Car Decision Making: Spring 2025
 
-[Click here](documents/AI_Final_Report.pdf) to view the final report for my Artificial Intelligence Capstone Project, and [click here](https://colab.research.google.com/drive/1e7-j8IWPwWG44_PUqfATW6gOhvN5YveL?usp=sharing) to view the code. The project was completed in a group of 2. The goal of the project was to understand the trade-offs between simplicity and flexibility when choosing between a probabilistic model and a more complex non-linear model. The project uses a dataset from Kaggle, consisting of images of various objects and situations seen when driving. The program takes this data and performs exploratory data analysis. Then trained and evaluated using two models, Naive Bayes and a custom neural network.
+[Click here](documents/AI_Final_Report.pdf) to view the final report for my Artificial Intelligence Capstone Project, and [click here](https://colab.research.google.com/drive/1e7-j8IWPwWG44_PUqfATW6gOhvN5YveL?usp=sharing) to view the code. The project was completed in a group of 2. The goal of the project was to understand the trade-offs between simplicity and flexibility when choosing between a probabilistic model and a more complex non-linear model. The project uses a dataset from Kaggle, consisting of images of various objects and situations seen when driving. The program takes this data and performs exploratory data analysis. Then, they were trained and evaluated using two models, Naive Bayes and a custom neural network.
 
 ## Educational Video Game: Fall 2024
 
@@ -31,3 +31,7 @@ This section highlights some of my academic and personal projects.
 ## Computing IV Portfolio: Spring 2023
 
 [Click here](documents/Walsh_James_Comp4Spring2023.pdf) to access my Computing IV final portfolio, showcasing each of my two-week projects completed throughout the semester. Each project was programmed in C++ using Visual Studio Code's Windows Subsystem for Linux. In the portfolio, you can find a table of contents, followed by each project in chronological order. Each project has a Discussion and Code section.
+
+#### Contact Me
+email: jameswalsh583@gmail.com
+phone: 774-284-1681
